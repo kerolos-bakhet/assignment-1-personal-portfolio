@@ -1,0 +1,248 @@
+* {
+    box-sizing: border-box;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.our-proudct {
+    background-color: #F5F7FB;
+}
+
+.container {
+    width: 70%;
+    background-color: #F5F7FB;
+    margin: auto;
+
+}
+
+.about-line {
+    border: none;
+    height: 2px;
+    background-color: #EDF6FF;
+}
+
+.Header {
+    width: 100%;
+    text-align: center;
+    background-color: #19487B;
+    color: white;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.link-h{
+     display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: #315D87;
+    border: 1px solid #47729A;
+    border-radius: 20px;
+    padding: 8px 14px;
+    margin: 3px;
+}
+
+#fr {
+    color: #85A8C6;
+}
+
+.About-Me {
+    margin-top: 20px;
+    width: 100%;
+    background-color: #FFFFFF;
+    float: left;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#Visit {
+    display: inline-block;
+    background-color: #19487B;
+    color: white;
+    text-decoration: none;
+    padding: 13px 20px;
+    border-radius: 8px;
+}
+
+.About-Me p {
+    margin-top: 30px;
+}
+
+.About {
+    color: #19487B;
+}
+
+#sp-about-me {
+    color: #5182BB;
+}
+
+#face {
+
+    float: left;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    margin-right: 20px;
+    border: #EDF6FF 5px solid;
+}
+
+.clear {
+    clear: both;
+}
+
+.My-Skills {
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px 20px;
+
+
+}
+
+.container-skills {
+    background-color: #FFFFFF;
+    width: 90%;
+    margin : auto ;
+}
+
+.html5 {
+    width: 23%;
+    background-color: #FAFCFF;
+    float: left;
+    padding: 20px;
+    border: 2px solid #EDF6FF;
+    border-radius: 10px;
+     height: 150px;
+      margin-right: 1.33%;
+}
+
+.css3 {
+     width: 23%;
+    background-color: #FAFCFF;
+    float: left;
+    padding: 11px;
+    border: 2px solid #EDF6FF;
+    border-radius: 10px;
+     height: 150px;
+      margin-right: 1.33%;
+}
+
+.JavaScript {
+   width: 23%;
+    background-color: #FAFCFF;
+    float: left;
+    padding: 20px;
+    border: 2px solid #EDF6FF;
+    border-radius: 10px;
+     height: 150px;
+      margin-right: 1.33%;
+}
+
+.React {
+     width: 23%;
+    background-color: #FAFCFF;
+    float: left;
+    padding: 20px;
+    border: 2px solid #EDF6FF;
+    border-radius: 10px;
+     height: 150px;
+      margin-right: 1.33%;
+}
+.clear{
+    clear : both ;
+}
+.name-skill {
+    color: #19487B;
+}
+.Experience{
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.ex-div1{
+    margin-top: 10px;
+   background-color: #FAFCFF; 
+   float: left;
+   width: 100%;
+   border-radius: 15px;
+   border-left: 5px solid  #19487B ;
+   padding: 30px;
+}
+
+#ex1-sp {
+    color: #5182BB;
+}
+
+.img-ex{
+    margin: 20px;
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    border: #EDF6FF solid 1px;
+    border-radius: 10px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.ex-div2{
+     margin-top: 10px;
+   background-color: #FAFCFF; 
+   float: left;
+   width: 100%;
+   border-radius: 15px;
+   border-left: 5px solid  #19487B ;
+   padding: 30px;
+}
+#ex-sp2{
+    color: #5182BB;
+}
+
+.Contact-Me{
+
+     margin-top: 20px;
+     padding: 30px;
+    
+    background-color: #19487B;
+    color: #EDF6FF;
+    border-radius: 10px;
+    padding: 10px 20px;
+
+}
+
+.Contact-Me hr{
+   border: none;
+    height: 1px;
+    background-color: #47729A;
+}
+.a-contact{ 
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: #315D87;
+    border: 2px solid #47729A;
+    border-radius: 7px;
+    padding: 10px 13px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+
+}
+.all-right{
+    background-color: #071a35;
+    text-align: center;
+    color: #EDF6FF;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#all-sp{
+    color: #5594c2;
+
+}
